@@ -1,0 +1,18 @@
+---
+name: Daytime
+version: 1.0
+author: Eforce
+main: Eforce\Main
+description: Plugin fixed by Eforce
+api: [3.0.0, 4.0.0]
+Website: https://m.youtube.com/channel/UCBoubxYnETzQzYTS6a0QfiQ
+
+commands:
+ dayt:
+  description: "Sets the time to only day"
+  default: true
+     
+permission:
+ tday.command:
+  default: true
+...
